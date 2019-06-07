@@ -1,1 +1,31 @@
-
+<?xml version="1.0" encoding="utf-8" ?>
+<GestorDeHoras>
+	<version>1.11</version>
+    <changes>
+		<change type="news">Creada ventana de ajustes</change>
+		<change type="news">Añadido ajuste Tiempo de preparacion </change>
+		<change type="bugs">Al seleccionar la opcion "Arrancar con windows" en el arranque la aplicacion casca</change>
+	</changes>
+    <version>1.10</version>
+    <changes>
+		<change type="news">Añadido boton para reportar nuevas issiues</change>
+		<change type="bugs">Al seleccionar la opcion "Arrancar con windows" en el arranque la aplicacion casca</change>
+	</changes>
+    <version>1.9</version>
+    <changes>
+		<change type="news">Corregido error al mostrar grafica</change>
+	</changes>
+    <!--
+	<version>1.5.0.0</version>
+    <changes>
+		<change type="news">Se bloquea la edicion del campo noticias</change>
+	</changes>
+    <version>1.4.0.0</version>
+    <changes>
+		<change type="news">Ahora la aplicacion se autoescala segun los DPIs configurados. O no ;)</change>
+	</changes>
+    <version>1.3.0.0</version>
+    <changes>
+		<change type="news">Se muestra informacion acerca de las nuevas actualizaciones.</change>
+	</changes>-->
+</GestorDeHoras>
