@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <GestorDeHoras>
+	<version>1.12</version>
+    <changes>
+		<change type="news">Corregido error de arranque con windows. Ya se puede usar la opcion de la aplicacion sin crear accesos directos en la carpeta startup.</change>
+		<change type="news">Corregido bug que no actualizaba tiempo de inicio/fin si no se usaban las flechas</change>
+		<change type="news">Corregido redimensionamiento de la ventana de ajustes</change>
+		<change type="news">Añadido nuevo parametro en ajustes. (Pendiente funcionalidad, solo diseño)</change>
+		<change type="news">Añadidas pestañas para exportar datos (Pendiente funcionalidad, solo diseño)</change>
+	</changes>
 	<version>1.11</version>
     <changes>
 		<change type="news">Creada ventana de ajustes</change>
