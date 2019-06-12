@@ -3,7 +3,8 @@
 
 	<!-- <version>1.13</version> -->
     <!-- <changes> -->
-		<!-- <change type="news">Creada pestaña about con creditos.</change> -->
+		<!-- <change type="news">Creada pestaña about con creditos.</change>
+ 		     <change type="news">Ahora la grafica se actualiza cada segundo.</change>-->
 	<!-- </changes> -->
 	
 	<version>1.12</version>
