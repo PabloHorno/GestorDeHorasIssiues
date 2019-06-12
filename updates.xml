@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <GestorDeHoras>
+
+	<!-- <version>1.13</version> -->
+    <!-- <changes> -->
+		<!-- <change type="news">Creada pestaña about con creditos.</change> -->
+	<!-- </changes> -->
+	
 	<version>1.12</version>
     <changes>
 		<change type="news">Corregido error de arranque con windows. Ya se puede usar la opcion de la aplicacion sin crear accesos directos en la carpeta startup.</change>
