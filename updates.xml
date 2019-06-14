@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <GestorDeHoras>
 
-	<!-- <version>1.13</version> -->
-    <!-- <changes> -->
-		<!-- <change type="news">Creada pestaña about con creditos.</change>
- 		     <change type="news">Ahora la grafica se actualiza cada segundo.</change>-->
-	<!-- </changes> -->
+	<version>1.13</version>
+    <changes>
+		<change type="news">Creada pestaña about con creditos.</change>
+ 		<change type="news">Ahora la grafica se actualiza cada segundo.</change>
+ 		<change type="news">Añadido formato al changelog.</change>
+ 		<change type="news">Corregido error con multilenguaje.</change>
+ 		<change type="news">Añadida opcion en el menu para ver el changelog.</change>
+ 		<change type="news">Ahora la grafica se actualiza cada segundo</change>
+	</changes>
 	
 	<version>1.12</version>
     <changes>
