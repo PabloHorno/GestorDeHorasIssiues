@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <GestorDeHoras>
 
-	<version>1.14</version>
-    <changes>
-		<change type="news">Correccion error critico de inicialización de datos.</change>
-	</changes>
-	
-	<version>1.13</version>
-    <changes>
-		<change type="news">Creada pestaña about con creditos.</change>
- 		<change type="news">Ahora la grafica se actualiza cada segundo.</change>
- 		<change type="news">Añadido formato al changelog.</change>
- 		<change type="news">Corregido error con multilenguaje.</change>
- 		<change type="news">Añadida opcion en el menu para ver el changelog.</change>
- 		<change type="news">Ahora la grafica se actualiza cada segundo</change>
-	</changes>
-	
-	<version>1.12</version>
-    <changes>
-		<change type="news">Corregido error de arranque con windows. Ya se puede usar la opcion de la aplicacion sin crear accesos directos en la carpeta startup.</change>
-		<change type="news">Corregido bug que no actualizaba tiempo de inicio/fin si no se usaban las flechas</change>
-		<change type="news">Corregido redimensionamiento de la ventana de ajustes</change>
-		<change type="news">Añadido nuevo parametro en ajustes. (Pendiente funcionalidad, solo diseño)</change>
-		<change type="news">Añadidas pestañas para exportar datos (Pendiente funcionalidad, solo diseño)</change>
-	</changes>
-	<version>1.11</version>
-    <changes>
-		<change type="news">Creada ventana de ajustes</change>
-		<change type="news">Añadido ajuste Tiempo de preparacion </change>
-		<change type="bugs">Al seleccionar la opcion "Arrancar con windows" en el arranque la aplicacion casca</change>
-	</changes>
-    <version>1.10</version>
-    <changes>
-		<change type="news">Añadido boton para reportar nuevas issiues</change>
-		<change type="bugs">Al seleccionar la opcion "Arrancar con windows" en el arranque la aplicacion casca</change>
-	</changes>
-    <version>1.9</version>
-    <changes>
-		<change type="news">Corregido error al mostrar grafica</change>
-	</changes>
-    <!--
-	<version>1.5.0.0</version>
-    <changes>
-		<change type="news">Se bloquea la edicion del campo noticias</change>
-	</changes>
-    <version>1.4.0.0</version>
-    <changes>
-		<change type="news">Ahora la aplicacion se autoescala segun los DPIs configurados. O no ;)</change>
-	</changes>
-    <version>1.3.0.0</version>
-    <changes>
-		<change type="news">Se muestra informacion acerca de las nuevas actualizaciones.</change>
-	</changes>-->
+<version>1.14</version>
+<changes>
+<change type="news">Correccion error critico de inicialización de datos.</change>
+</changes>
+
+<version>1.13</version>
+<changes>
+<change type="news">Creada pestaña about con creditos.</change>
+<change type="news">Ahora la grafica se actualiza cada segundo.</change>
+<change type="news">Añadido formato al changelog.</change>
+<change type="news">Corregido error con multilenguaje.</change>
+<change type="news">Añadida opcion en el menu para ver el changelog.</change>
+<change type="news">Ahora la grafica se actualiza cada segundo</change>
+</changes>
+
+<version>1.12</version>
+<changes>
+<change type="news">Corregido error de arranque con windows. Ya se puede usar la opcion de la aplicacion sin crear accesos directos en la carpeta startup.</change>
+<change type="news">Corregido bug que no actualizaba tiempo de inicio/fin si no se usaban las flechas</change>
+<change type="news">Corregido redimensionamiento de la ventana de ajustes</change>
+<change type="news">Añadido nuevo parametro en ajustes. (Pendiente funcionalidad, solo diseño)</change>
+<change type="news">Añadidas pestañas para exportar datos (Pendiente funcionalidad, solo diseño)</change>
+</changes>
+<version>1.11</version>
+<changes>
+<change type="news">Creada ventana de ajustes</change>
+<change type="news">Añadido ajuste Tiempo de preparacion </change>
+<change type="bugs">Al seleccionar la opcion "Arrancar con windows" en el arranque la aplicacion casca</change>
+</changes>
+<version>1.10</version>
+<changes>
+<change type="news">Añadido boton para reportar nuevas issiues</change>
+<change type="bugs">Al seleccionar la opcion "Arrancar con windows" en el arranque la aplicacion casca</change>
+</changes>
+<version>1.9</version>
+<changes>
+<change type="news">Corregido error al mostrar grafica</change>
+</changes>
+<!--
+<version>1.5.0.0</version>
+<changes>
+<change type="news">Se bloquea la edicion del campo noticias</change>
+</changes>
+<version>1.4.0.0</version>
+<changes>
+<change type="news">Ahora la aplicacion se autoescala segun los DPIs configurados. O no ;)</change>
+</changes>
+<version>1.3.0.0</version>
+<changes>
+<change type="news">Se muestra informacion acerca de las nuevas actualizaciones.</change>
+</changes>-->
 </GestorDeHoras>
