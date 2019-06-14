@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <GestorDeHoras>
 
-	<version>1.14 -Hotfix</version>
+	<version>1.14</version>
     <changes>
 		<change type="news">Correccion error critico de inicialización de datos.</change>
 	</changes>
