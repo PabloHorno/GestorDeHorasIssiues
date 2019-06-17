@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <GestorDeHoras>
 
-<!--
 <version>1.16</version>
 <changes>
 <change type="news">Corregido error por el cual no se guardaba el tiempo de descanso de L-J y V</change>
-</changes>-->
+<change type="news">Ahora las semanas se agrupan de Lunes a Viernes en la grafica. Si la semana no esta completa se representa con un gris mas oscuro.</change>
+</changes>
   
 <version>1.15</version>
 <changes>
