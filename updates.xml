@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <GestorDeHoras>
-
+  
+<version>1.17</version>
+<changes>
+<change type="news">Test para reescalado DPI en ventana ajustes</change>
+<change type="news">Corregido error ortográfico</change>
+<change type="news">Corregido error de dobleclick en el icono del area de notificación</change>
+</changes>
+  
 <version>1.16</version>
 <changes>
 <change type="news">Corregido error por el cual no se guardaba el tiempo de descanso de L-J y V</change>
