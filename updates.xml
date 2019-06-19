@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <GestorDeHoras>
   
+<!--
+<version>1.18</version>
+<changes>
+<change type="news">Refresco de graficas ahora se hace cada 30min</change>
+<change type="news">Añadidos logs para deteccion de bugs, errores</change>
+</changes>
+-->
+  
 <version>1.17</version>
 <changes>
 <change type="news">Test para reescalado DPI en ventana ajustes</change>
