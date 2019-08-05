@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <GestorDeHoras>
   
-<!--<version>1.19</version>
+<version>1.19</version>
 <changes>
 <change type="news">Corregido bug de agrupamiento de semanas</change>
 <change type="news">Se añade opción de exportar sesiones a formato csv</change>
-</changes>-->
+<change type="bug">NO se soluciona el bug del cleptomano del finde semana. (Pendiente para la 1.2)</change>
+</changes>
 
 <version>1.18</version>
 <changes>
