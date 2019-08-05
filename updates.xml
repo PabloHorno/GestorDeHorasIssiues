@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <GestorDeHoras>
   
+ <version>1.21</version>
+<changes>
+<change type="news">Excesos en negativo al exportar datos</change>
+<change type="bug">NO se soluciona el bug del cleptómano del finde semana. (Pendiente para la 1.22)</change>
+</changes> 
+  
 <version>1.20</version>
 <changes>
 <change type="news">Se redondean segundos al exportar, para tener segundos completos y no con decimales</change>
