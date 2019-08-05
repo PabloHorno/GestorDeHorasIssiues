@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <GestorDeHoras>
 
-<version>1.21</version>
+<version>2.0</version>
 <changes>
-<change type="bug">Se soluciona el bug del cleptómano del finde semana.</change>
+<change type="news">Se soluciona el bug del cleptómano del finde semana. Gracias a la gran ayuda del beta tester</change>
 <change type="news">Mejoras de codigo</change>
 </changes> 
 
