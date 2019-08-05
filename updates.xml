@@ -7,7 +7,7 @@
 <change type="news">Mejoras de codigo</change>
 </changes> 
 
-  <version>1.21</version>
+<version>1.21</version>
 <changes>
 <change type="news">Excesos en negativo al exportar datos</change>
 <change type="bug">NO se soluciona el bug del cleptómano del finde semana. (Pendiente para la 1.22)</change>
