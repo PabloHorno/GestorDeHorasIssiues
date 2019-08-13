@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <GestorDeHoras>
 
+<version>2.1</version>
+<changes>
+<change type="news">Se muestran el exceso en la vista de las gráficas</change>
+</changes> 
+
 <version>2.0</version>
 <changes>
 <change type="news">Se soluciona el bug del cleptómano del finde semana. Gracias a la gran ayuda del beta tester</change>
