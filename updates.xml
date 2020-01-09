@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <GestorDeHoras>
 
+<version>2.2</version>
+<changes>
+<change type="news">Se cambia el tiempo de trabajo de 8:45 L-J 6:25 V a 8:15 L-V</change>
+</changes>
+  
 <version>2.1</version>
 <changes>
 <change type="news">Se muestran el exceso en la vista de las gráficas</change>
